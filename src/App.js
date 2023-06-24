@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Holaaaaaaaa :D <code>src/App.js</code> and save to relqwoad.
+          Holaaaaaaaa :D si  <code>src/App.js</code> and save to relqwoad.
         </p>
         <a
           className="App-link"
